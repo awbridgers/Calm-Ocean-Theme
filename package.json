@@ -1,0 +1,21 @@
+{
+    "name": "calm-ocean-theme",
+    "displayName": "Calm Ocean Theme",
+    "description": "A dark theme with a slight green tint",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Calm Ocean Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Calm Ocean-color-theme.json"
+            }
+        ]
+    }
+}
