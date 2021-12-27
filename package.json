@@ -4,7 +4,7 @@
     "description": "A dark theme with a slight green tint",
     "repository": {
         "type": "git",
-        "url": "https://awbridgers@dev.azure.com/awbridgers/Calm-Ocean-Theme/_git/Calm-Ocean-Theme"
+        "url": "https://github.com/awbridgers/Calm-Ocean-Theme.git"
     },
     "version": "0.0.1",
     "engines": {
